@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: manoj1812/node-app:latest
+    image: manoj1812/node-todo-test:latest
     ports:
       - "8000:8000"
